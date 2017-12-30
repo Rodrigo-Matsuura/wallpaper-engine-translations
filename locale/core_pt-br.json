@@ -3,7 +3,7 @@
 	"core_tray_browse_workshop" : "Navegar pela Oficina",
 	"core_tray_create_wallpaper" : "Criar plano de fundo",
 	"core_tray_settings" : "Configurações",
-	"core_tray_take_screenshot" : "Tirar screenshot",
+	"core_tray_take_screenshot" : "Tirar captura de tela",
 	"core_tray_pause" : "Pausar",
 	"core_tray_unpause" : "Despausar",
 	"core_tray_recent_wallpapers" : "Planos de fundo recentes",
@@ -13,7 +13,7 @@
 	"core_tray_next_wallpaper" : "Próximo plano de fundo",
 	
 	"core_balloon_info" : "Wallpaper Engine minimizado para a bandeja. Dê um duplo clique no ícone da bandeja para selecionar um plano de fundo.",
-	"core_balloon_desktop_window_error" : "Falha ao preparar área de trabalho.",
+	"core_balloon_desktop_window_error" : "Falha ao preparar área de trabalho para papel de parede ao vivo.",
 	"core_balloon_video_error" : "Ocorreu um erro de vídeo do Windows: {{err}}. Clique para obter ajuda.",
 	"core_balloon_app_error" : "Falha ao carregar aplicativo como plano de fundo.",
 	
@@ -21,10 +21,10 @@
 	"core_msgboxtitle_app_conflict" : "Aplicativo conflitante",
 	"core_msgboxtitle_wpe" : "Wallpaper Engine",
 	
-	"core_msgbox_deskscapes" : "Parece que o DeskScapes está ativo, o que pode impedir que o Wallpaper Engine funcione corretamente.",
+	"core_msgbox_deskscapes" : "Parece que o DeskScapes está ativo. Isso pode impedir que o Wallpaper Engine funcione corretamente.",
 	"core_msgbox_prompt_aero_win7" : "O Wallpaper Engine precisa habilitar o Aero para funcionar. Ativar Aero agora?",
-	"core_msgbox_prompt_aero_win8" : "O Wallpaper Engine não pode ser executado com um tema de \"alto contraste\". Redefinir tema agora?",
-	"core_msgbox_prompt_high_contrast_was_enabled" : "O Windows aplicou um tema de \"alto contraste\" que impede que o Wallpaper Engine funcione corretamente.",
+	"core_msgbox_prompt_aero_win8" : "O Wallpaper Engine não pode ser executado com um tema de 'alto contraste'. Redefinir tema agora?",
+	"core_msgbox_prompt_high_contrast_was_enabled" : "O Windows aplicou um tema de 'alto contraste' que impede que o Wallpaper Engine funcione corretamente.",
 	"core_msgbox_dwm_disabled" : "A composição da área de trabalho está desativada.",
 	"core_msgbox_aero_denied" : "O Wallpaper Engine não pode funcionar sem o Aero e será fechado agora.",
 	"core_msgbox_aero_failure" : "Falha ao habilitar Aero. O Wallpaper Engine será fechado agora.",
@@ -74,6 +74,6 @@
 	"core_updater_status_cancelled" : "O processo foi cancelado pelo usuário",
 	"core_updater_status_corrupted_system_module_message_box_title" : "O módulo do sistema não pode ser carregado",
 	"core_updater_status_corrupted_system_module_message_box_body" : "Um módulo do sistema parece estar corrompido e pode causar mau funcionamento do Wallpaper Engine.\n\nExcluir: {{modules}}\n\nReinstalar: {{installers}}",
-	"core_updater_prompt_close" : "O Wallpaper Engine ainda está em execução. Por favor, feche-o antes de continuar."
+	"core_updater_prompt_close" : "O Wallpaper Engine ainda está em execução. Por favor, feche-o primeiro."
 }
 
